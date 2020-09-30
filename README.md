@@ -1,2 +1,2 @@
-# machine-learning-examples
-This repository contains various examples of machine learning workflows.
+# Machine-learning-examples
+This repository contains various amazing examples of machine learning workflows.
